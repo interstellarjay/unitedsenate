@@ -1,4 +1,4 @@
-#The United Senate
+# The United Senate
 http://unitedsenate.org
 
 ---
@@ -31,7 +31,7 @@ Each issue is categorised and sent to be evaluated and actioned by a specific Se
 
 which must action (essentially a project management dashboard) 
 
-## How does it work?
+## How do I access the United Senate?
 Uses sign into an dApp (read about dApps here) from there, they can view 24/7 
 
 ##
