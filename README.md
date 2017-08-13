@@ -3,8 +3,32 @@
 http://unitedsenate.org
 
 ---
+## CONTENTS
++ Hello
+++ World
++
++
++
 
-## What is the United Senate
+---
+
+## PRINCIPLES
++ Develop the faculties of the community to enable to solve problems independently
++ Decentralization is a good thing
++ Issues for action can be raised by the public and sent to the Senate at any time
++ Anticipate demand for resources ahead of time
++ Never exhaust the supply of resources
++ Be sustainable and give enough space for nature 
++ Provide public access to real-time 24/7 data about resources and the community 
++ Respect cultural heritage and existing buildings where possible
++ Provide all citizens with their needs
++ Protect freedom of creative expression
++ Meritocracy without debt
+
+
+--- 
+
+## What is the United Senate ?
 The United Senate is a decentralized platform (dApp) for running a society without the need for money. Essentially, it is an access based economy that gives people the opportunity to learn, train and perform the necessary tasks to enable their community to function - they do this by joining a Senate.
 
 Each Senate provides everyone 24/7 public visibility of the quantity, consumption and distribution of community resources by leveraging blockchain technology. 
