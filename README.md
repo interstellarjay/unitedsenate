@@ -2,20 +2,34 @@
 # :earth_asia: The United Senate
 http://unitedsenate.org
 
+
 ---
-## CONTENTS
-+ Hello
-++ World
-+
-+
-+
+## QUICK CONCEPT
+
+### Citizen
++ Login to the United Senate citizen portal
++ Fill in your profile for your household needs, dietary requirements etc.
++ View in real-time how resources are being used in your community, where they're going and how much is left
++ Check the current open tickets for the Senate to action (like Trello)
++ Upvote the tickets for the tasks you want to see actioned by each of the Senates
++ Upvote the products you want in circulation for the Senate to greenlight (like Kickstarter)
++ View the amount of access you have to resources.
+
+
+### Senator
++ Enroll into a Senate
++ Attend training
++ Attend Senate meetings and discuss together how to tackle the most popular tasks the people have submitted.
++ Perform the tasks physically
++ Move the status of tasks from To Do > Done
++ View the amount of access you have to resources.
 
 ---
 
 ## PRINCIPLES
 + Develop the faculties of the community to enable to solve problems independently
 + Decentralization is a good thing
-+ Issues for action can be raised by the public and sent to the Senate at any time
++ Issues for action can be raised by the public and sent to a Senate at any time but these will be actioned from most popular to least popular.
 + Anticipate demand for resources ahead of time
 + Never exhaust the supply of resources
 + Be sustainable and give enough space for nature 
@@ -46,23 +60,18 @@ First, the community to organise it's duties into a series of Senates. An exampl
 + Judicial 
 + 
 
-The United Senate is a union of smaller senates working in harmony to execute the will of the people. 
+The United Senate is a union of smaller senates working in harmony to execute the will of the citizens.
 
-This works by people issuing tickets for the tasks and issues which matter to their community to a central project management dashboard. People then upvote or downvote the tickets which matter most to them. 
-
-
+This works by citizens issuing tickets for the tasks and issues which matter to their community to a central project management dashboard. Citizens then upvote or downvote the tickets which matter most to them. Products in the market also work this way, the products that will enter the market will be those products with the highest upvotes (like Kickstarter).
 
 Each issue is categorised and sent to be evaluated and actioned by a specific Senate. 
 
 which must action (essentially a project management dashboard) 
 
-## How do I access the United Senate?
-Uses sign into an dApp (read about dApps here) from there, they can view 24/7 
+---
 
-##
-
-+ Each person can pitch tasks a vote on projects
-+ Community resources 24/7 visibility of community resources, and Kickstarter-like project pitching 
-
-## What are the benefits?
-The United Senate
+## DISCUSSION TOPICS
++ 
++
++
++
