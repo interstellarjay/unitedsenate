@@ -58,7 +58,7 @@ First, the community to organise it's duties into a series of Senates. An exampl
 + Arts + Sport
 + Medical & Wellbeing
 + Judicial 
-+ 
++ others ...
 
 The United Senate is a union of smaller senates working in harmony to execute the will of the citizens.
 
